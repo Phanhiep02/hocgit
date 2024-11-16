@@ -1,6 +1,7 @@
 # Terms
 
 repository (repo)
+branch(nhánh)
 
 # Commands
 
@@ -9,5 +10,9 @@ repository (repo)
 - git add (lưu lại folder)
 - git reset (quay lại folder vừa lưu)
 - git commit -m (note)
-- git log
-- git checkout id commit quay lại
+- git log --oneline
+- git checkout (id commit) để tới nhánh commit đó
+- git branch - nhánh mặc định (main)
+- git checkout -b tên của branch để tạo nhánh mới
+
+- khi ở nhánh dev mà tạo file sang nhánh master sẽ ko có muốn có thì merge

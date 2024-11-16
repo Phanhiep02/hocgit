@@ -37,3 +37,5 @@ remote
    2.1 git checkout -b staging origin/staging
 
 - muốn merge từ github thì tạo Pull request
+- khi tạo và thay đổi xong ở trên github thành công thì sau đó sẽ kéo về code ở máy tính
+- dùng git pull

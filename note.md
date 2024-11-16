@@ -26,3 +26,10 @@ remote
 - xử lí conflict xong thì git add . , git commit
 
 - git push
+- git push -u origin {branch name} đẩy nhánh lên git
+
+-- tạo từ trên git xong lấy về
+
+1. git fetch origin
+2. tên tạo , file ở github
+   2.1 git checkout -b staging origin/staging

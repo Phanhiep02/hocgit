@@ -36,7 +36,7 @@ remote
 - git push
 - git push -u origin {branch name} đẩy nhánh lên git
 
--- tạo từ trên git xong lấy về
+-- tạo nhánh từ trên git xong lấy về
 
 1. git fetch origin
 2. tên tạo , file ở github

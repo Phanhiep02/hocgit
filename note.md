@@ -3,6 +3,8 @@
 repository (repo)
 branch(nhánh)
 conflict
+local
+remote
 
 # Commands
 
@@ -22,3 +24,5 @@ conflict
 - git branch -d {branch name} - xóa nhánh
 
 - xử lí conflict xong thì git add . , git commit
+
+- git push

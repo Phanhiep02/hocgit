@@ -18,3 +18,5 @@ branch(nhánh)
 - khi ở nhánh dev mà tạo file sang nhánh master sẽ ko có muốn có thì merge
 
 - git merge {branch name}tên nhánh , nó sẽ tổng hợp lại
+
+- git branch -d {branch name} xóa nhánh

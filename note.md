@@ -25,6 +25,8 @@ remote
 
 - xử lí conflict xong thì git add . , git commit
 
+# github
+
 - git push
 - git push -u origin {branch name} đẩy nhánh lên git
 
@@ -33,3 +35,5 @@ remote
 1. git fetch origin
 2. tên tạo , file ở github
    2.1 git checkout -b staging origin/staging
+
+- muốn merge từ github thì tạo Pull request

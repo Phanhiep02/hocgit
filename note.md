@@ -45,3 +45,12 @@ remote
 - muốn merge từ github thì tạo Pull request
 - khi tạo và thay đổi xong ở trên github thành công thì sau đó sẽ kéo về code ở máy tính
 - dùng git pull
+
+# xử lí conflict
+
+- cố tình để conflict
+
+1. git checkout master
+2. git pull origin {brand name conflict}
+3. check thủ công
+4. git add . , git commit , git push

@@ -20,3 +20,5 @@ conflict
 
 - git merge {branch name}
 - git branch -d {branch name} - xóa nhánh
+
+- xử lí conflict xong thì git add . , git commit
